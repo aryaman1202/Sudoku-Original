@@ -46,7 +46,3 @@ In addition, there are other algorithms that can be used to solve a Sudoku puzzl
 3. Use the `DFS_solve`, `BFS_solve` or `HSolve` functions according to which method you want to use in solving a grid.
 4. You may check the code of each algorithm in their respective Python files.
 
-## References
-https://www.slideshare.net/FernandoJunior52/bdfsdfspaper?fbclid=IwAR07gT0SZ94nOHQILqatoMKqsqyXYuvpHbSrDIxv1iuwgnUuBgqBLzAm-gk
-https://norvig.com/sudoku.html
-https://github.com/tphanco/sample/blob/master/BDFS_Sudoku.py 
